@@ -1,6 +1,8 @@
 # HTML and CSS Practice Directory
 This directory contains the files that I created while practicing HTML and CSS. The purpose of this directory is to showcase my skills and progress as I learn and improve my knowledge of web development.
 
+<img src="panda.png" />
+
 ## Files
 
 The following files are included in this repository:
