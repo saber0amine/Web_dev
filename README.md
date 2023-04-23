@@ -1,4 +1,4 @@
-i# Web Development Repository
+# Web Development Repository
 
 This repository contains the files that I created while practicing web development using HTML and CSS. The purpose of this repository is to showcase my skills and progress as I learn and improve my knowledge of web development.
 
